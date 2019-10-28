@@ -14,10 +14,7 @@ import java.util.List;
 public class tweet {
 	public static void main(String[] args) throws TwitterException
 	{
-		//call function here
-		//System.out.println("i love you");
 		
-			sendTweet("hello lacturer");
 		
 	}
 	
